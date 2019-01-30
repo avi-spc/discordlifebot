@@ -9,3 +9,4 @@ lifeBot.registry.registerDefaults();
 lifeBot.registry.registerCommandsIn(__dirname + '/commands');
 
 lifeBot.login(token);
+
